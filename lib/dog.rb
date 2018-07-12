@@ -1,1 +1,2 @@
-# dog.rb
+def initialize (#bark,)
+puts "Woof!"
